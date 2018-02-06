@@ -1,0 +1,27 @@
+{
+  "Mac" : [
+    {
+      "name" : "ObjectMapper",
+      "hash" : "54c0a815aaa852776bac0215369b58c93f74355bf1d2c5d14ef75bc364d6fc3a"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "ObjectMapper",
+      "hash" : "733b7b3c7556872bd836905ccd1905a47bd9b6bbaad6c94c86397a683b736dbb"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "ObjectMapper",
+      "hash" : "9353ff742ecfc3ada5f6a2f30a10b45cbb20867fab6a818cc2da5d3fb54fc78e"
+    }
+  ],
+  "commitish" : "3.1.0",
+  "iOS" : [
+    {
+      "name" : "ObjectMapper",
+      "hash" : "bd08cf81c2df0073a333bd08d501902a233bf6f70c0a1ebb01d8d14fa3b37625"
+    }
+  ]
+}

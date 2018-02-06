@@ -33,9 +33,9 @@ class Car {
     }
 }
 
+
+
 struct GeoPoint {
     let latitud: Double?
     let longitude: Double?
 }
-
-
